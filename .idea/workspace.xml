@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ff0c031-24cd-48a9-a926-646f265cf836" name="Default Changelist" comment="" />
+    <list default="true" id="7ff0c031-24cd-48a9-a926-646f265cf836" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程新增_04/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程新增_04/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/CommunicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/CommunicationTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,24 +18,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="165" column="26" lean-forward="true" selection-start-line="165" selection-start-column="26" selection-end-line="165" selection-end-column="26" />
-              <folding>
-                <element signature="class#ThreadPP01#0" />
-                <element signature="class#AnnoyPP#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/LockTest02.java">
+        <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程新增_04/ThreadPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="254">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,12 +71,16 @@
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/ThreadLife02.java" />
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/LockTest.java" />
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadDemo02.java" />
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/CommunicationTest.java" />
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadDemo03.java" />
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice.java" />
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice02.java" />
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/Test.java" />
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/LockTest02.java" />
+        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/CommunicationTest.java" />
+        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/Test01.java" />
+        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/Test02.java" />
+        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程新增_04/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程新增_04/ThreadPool.java" />
       </list>
     </option>
   </component>
@@ -92,6 +93,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showExcludedFiles Scope="true" ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -126,7 +128,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="多线程学习" type="462c0819:PsiDirectoryNode" />
-              <item name="线程的同步_02" type="462c0819:PsiDirectoryNode" />
+              <item name="线程新增_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,7 +141,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596024573302" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596037559014" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -168,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LockTest02">
+  <component name="RunManager" selected="Application.ThreadPool">
     <configuration name="CommunicationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="niu.java.多线程学习.线程通信_03.CommunicationTest" />
       <module name="Prac01" />
@@ -182,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LockTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niu.java.多线程学习.线程的同步_02.LockTest02" />
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niu.java.多线程学习.线程通信_03.Test01" />
       <module name="Prac01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java.多线程学习.线程的同步_02.*" />
+          <option name="PATTERN" value="niu.java.多线程学习.线程通信_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niu.java.多线程练习.Test" />
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niu.java.多线程学习.线程通信_03.Test02" />
       <module name="Prac01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java.多线程练习.*" />
+          <option name="PATTERN" value="niu.java.多线程学习.线程通信_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niu.java.多线程练习.ThreadPractice" />
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niu.java.多线程学习.线程新增_04.ThreadPool" />
       <module name="Prac01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java.多线程练习.*" />
+          <option name="PATTERN" value="niu.java.多线程学习.线程新增_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPractice02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niu.java.多线程练习.ThreadPractice02" />
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niu.java.多线程学习.线程新增_04.ThreadTest" />
       <module name="Prac01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java.多线程练习.*" />
+          <option name="PATTERN" value="niu.java.多线程学习.线程新增_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,10 +238,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LockTest02" />
-        <item itemvalue="Application.ThreadPractice02" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ThreadPractice" />
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.Test01" />
         <item itemvalue="Application.CommunicationTest" />
       </list>
     </recent_temporary>
@@ -258,7 +260,7 @@
       <workItem from="1595641524404" duration="13219000" />
       <workItem from="1595980879577" duration="1545000" />
       <workItem from="1595982741177" duration="9420000" />
-      <workItem from="1595993712426" duration="4223000" />
+      <workItem from="1595993712426" duration="16312000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;&quot;">
       <created>1596024333669</created>
@@ -271,7 +273,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57031000" />
+    <option name="totallyTimeSpent" value="69120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -285,17 +287,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2764505" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2764505" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39761093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32935154" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32879046" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32764506" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32935154" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -310,6 +312,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;&quot;" />
@@ -397,13 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/CommunicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -503,8 +524,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/LockTest02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="180">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/CommunicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="191" column="19" selection-start-line="191" selection-start-column="19" selection-end-line="191" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程新增_04/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="136" column="45" lean-forward="true" selection-start-line="136" selection-start-column="45" selection-end-line="136" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="318" column="50" selection-start-line="318" selection-start-column="50" selection-end-line="318" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程新增_04/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

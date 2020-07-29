@@ -16,7 +16,7 @@ import java.util.concurrent.locks.ReentrantLock;
 *1.wait()，notify()，notifyAll()三个方法必须使用在同步代码块或同步方法中。
  *2.wait()，notify()，notifyAll()三个方法的调用者必须是同步代码块或同步方法中的同步监视器。
  *否则，会出现IllegalMonitorStateException异常
- *3.wait()，notify()，notifyAll()三个方法是定义在java.lang.Object类中。
+ *3.wait()，notify()，notifyAll()三个方法是定义在java.lang.Object类中.
  *
  */
 class Number implements Runnable {

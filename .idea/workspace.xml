@@ -11,33 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
-              <folding>
-                <element signature="class#Thread02#0" />
-                <element signature="class#Annoy#0" />
-                <element signature="e#1108#1655#0" expanded="true" />
-                <element signature="e#1654#1655#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice02.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/DeadLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="181" column="17" lean-forward="true" selection-start-line="181" selection-start-column="17" selection-end-line="181" selection-end-column="17" />
-              <folding>
-                <element signature="class#ThreadPP01#0" />
-                <element signature="class#Thread02#0" />
-                <element signature="class#AnnoyPP#0" />
-                <element signature="e#1029#1572#0" expanded="true" />
-                <element signature="e#1571#1572#0" expanded="true" />
-              </folding>
+            <state>
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -83,10 +70,11 @@
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadDemo03.java" />
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice.java" />
         <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice02.java" />
+        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/Test.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -148,7 +136,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595990014741" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595993325528" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="E:/Edit Code/DevelopmentEnvironment/Git/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -177,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadPractice02">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="CommunicationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="niu.java.多线程学习.线程通信_03.CommunicationTest" />
       <module name="Prac01" />
@@ -191,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niu.java.多线程学习.线程的同步_02.LockTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niu.java.多线程练习.Test" />
       <module name="Prac01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java.多线程学习.线程的同步_02.*" />
+          <option name="PATTERN" value="niu.java.多线程练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ThreadPractice02" />
         <item itemvalue="Application.ThreadPractice" />
         <item itemvalue="Application.CommunicationTest" />
         <item itemvalue="Application.ThreadDemo02" />
-        <item itemvalue="Application.LockTest" />
       </list>
     </recent_temporary>
   </component>
@@ -266,16 +254,15 @@
       <workItem from="1595559747582" duration="28624000" />
       <workItem from="1595641524404" duration="13219000" />
       <workItem from="1595980879577" duration="1545000" />
-      <workItem from="1595982741177" duration="6919000" />
+      <workItem from="1595982741177" duration="9420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50307000" />
+    <option name="totallyTimeSpent" value="52808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -286,7 +273,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3407155" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27768314" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,13 +328,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Prac01/src/niu/java/ThreadLearning/WindowTest.java" />
-    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的创建和使用_01/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -373,27 +353,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/BankTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/DeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/ThreadDead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -465,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        <state relative-caret-position="-280">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
           <folding>
             <element signature="class#Thread02#0" />
             <element signature="class#Annoy#0" />
@@ -478,8 +437,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="181" column="17" lean-forward="true" selection-start-line="181" selection-start-column="17" selection-end-line="181" selection-end-column="17" />
+        <state relative-caret-position="117">
+          <caret line="161" column="44" selection-start-line="161" selection-start-column="44" selection-end-line="161" selection-end-column="44" />
           <folding>
             <element signature="class#ThreadPP01#0" />
             <element signature="class#Thread02#0" />
@@ -487,6 +446,41 @@
             <element signature="e#1029#1572#0" expanded="true" />
             <element signature="e#1571#1572#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/BankTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/ThreadDead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

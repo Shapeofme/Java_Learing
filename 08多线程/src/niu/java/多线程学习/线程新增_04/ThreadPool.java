@@ -41,14 +41,14 @@ class NumerThread02 implements Callable<Integer> {
 }
 public class ThreadPool {
     public static void main(String[] args) {
-        //1.
+        //1.提供指定线程数量的线程池
         ExecutorService service = Executors.newFixedThreadPool(10);//这是接口
         ThreadPoolExecutor service1 = (ThreadPoolExecutor) service;//这是类
         //设置线程池中的属性
         service1.setCorePoolSize(15);
 //        ((ThreadPoolExecutor) service).setKeepAliveTime();
 
-        //2.
+        //2.执行指定的线程的操作。需要提供实现Runnable接口或Callable接口实现类的对象
         service.execute(new NumerThread());//适合适用于Runnable
         service.execute(new NumerThread01());
         service.submit(new NumerThread02());//适合适用于Callable

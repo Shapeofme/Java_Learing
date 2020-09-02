@@ -1,8 +1,10 @@
 package niu.java._02;
 
+import com.sun.org.apache.xml.internal.res.XMLErrorResources_tr;
+
 /**
- * Description:
- * @author:
+ * Description: 基本语法的使用
+ * @author: niu
  * @version: date: 2020/9/1 17:36
  */
 public class Test01 {
@@ -82,10 +84,53 @@ public class Test01 {
 
         //3-3位运算符
         // >>右移运算符
-        System.out.println(6>>2);// 6/(2*2)
-        System.out.println(-6>>2);// 使用负数的源码进行移位
+        /*System.out.println(6>>2);// 6/(2*2)
+        System.out.println(-6>>2);// 使用负数的原码进行移位*/
         // <<左移运算符
-        System.out.println(6<<2);// 6*(2*2)
-        System.out.println(-6<<2);// -6*(2*2)
+        /*System.out.println(6<<2);// 6*(2*2)
+        System.out.println(-6<<2);// -6*(2*2)*/
+
+        //3-4三元运算符 -->表达式1,2的数据类型保持一致，会自动类型提升
+        /*double a = 10==10?10.9:10;
+        System.out.println(a);*/
+
+        //4.流程控制
+        //--> byte、short、char、int（对应包装类 ：Byte、Short、Character、Integer）、String、enum
+        //--> case 必须为常量
+        /*switch (new Byte("10")){
+            case 10:
+                System.out.println("测试");
+        }*/
+
+        //5.循环结构
+        //break label :结束label范围内的循环
+        /*int i = 10;
+
+        label:
+        while(true){
+            System.out.println("测试");
+            i--;
+            if(i == 8) break label;//跳出至label处的循环
+            if(i == 0) break;
+        }*/
+
+        /*for(int i = 0;i<5;)
+        {
+            while (true){
+                if(i == 3) break;
+                i++;
+            }
+            System.out.println("测试"+i);
+        }*/
+
+        /*label:
+        for(int i = 0;i<5;)
+        {
+            System.out.println("测试"+i);
+            while (true){
+                if(i == 3) break label;
+                i++;
+            }
+        }*/
     }
 }

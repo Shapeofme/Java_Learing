@@ -1,7 +1,5 @@
 package niu.java._02;
 
-import com.sun.org.apache.xml.internal.res.XMLErrorResources_tr;
-
 /**
  * Description: 基本语法的使用
  * @author: niu

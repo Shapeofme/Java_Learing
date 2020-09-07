@@ -1,7 +1,5 @@
 package niu.java._08;
 
-import com.sun.jmx.snmp.SnmpTimeticks;
-import org.junit.Test;
 
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -16,7 +14,9 @@ import java.util.concurrent.locks.ReentrantLock;
  * 2.解决方法：
  * --> synchronize代码块
  * --> synchronize方法 静态<-->非静态
- * --> lock锁 try-finally 可能会到程序无法退出
+ * --> lock锁
+ *      -static ReentrantLock lock = new ReentrantLock() 必须唯一;
+ *      -try-finally 可能程序会无法退出;
  * */
 //继承类
 //Synchronize代码块
@@ -116,16 +116,17 @@ class ExThre1 extends Thread {
 //lock锁
 //目前遇到的问题 --> 程序不结束
 class ExTre2 extends Thread {
-    static int ticknum = 10;
-    static ReentrantLock lock = new ReentrantLock();
-    static int i = 0;
 
-    @Override
+    static int ticknum = 10;
+    static ReentrantLock lock = new ReentrantLock();//必须唯一
+    static int i = 0;//控制lock.lock只锁一次
+
     public void run() {
+
         System.out.println("lock锁：" + Thread.currentThread().getName());
         while (true) {
             try {
-                //if(i == 0)lock.lock();
+//                if(i == 0)lock.lock(); //此时只会进入一个线程，其他线程始终进不去
                 lock.lock();
                 try {
                     sleep(100);
@@ -148,10 +149,10 @@ class ExTre2 extends Thread {
                 * */
 
             } finally {
-                //lock.unlock();//2-在这里解锁会导致程序正常退出
+//                lock.unlock();//2-在这里解锁会导致程序正常退出
             }
         }
-        //lock.unlock();//3
+//        lock.unlock();//3
 
         /*总结：
         * --> 1、3 程序正常退出
@@ -281,12 +282,12 @@ public class Test_02 {
         thread2.start();*/
 
         //lock锁
-        /*Thread thread = new ExTre2();
+        Thread thread = new ExTre2();
         Thread thread1 = new ExTre2();
         Thread thread2 = new ExTre2();
         thread.start();
         thread1.start();
-        thread2.start();*/
+        thread2.start();
 
         //实现接口
         //Synchronize代码块

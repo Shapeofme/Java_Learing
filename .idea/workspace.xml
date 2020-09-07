@@ -2,30 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff0c031-24cd-48a9-a926-646f265cf836" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_06/LeafTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_06/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_06/Son1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_06/Test_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_06/Test_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_06/Test_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_06/Test_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_06/Test_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_07/Test_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_08/ThreadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09常用类/src/niu/java/其他类的使用/OtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/StringTest_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/TestStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09常用类/src/niu/java/日期时间/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09常用类/src/niu/java/日期时间/DateTest_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09常用类/src/niu/java/比较器/CampareableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09常用类/src/niu/java/比较器/Goods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00代码复习/00代码复习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/00代码复习/00代码复习.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00代码复习/src/niu/java/_02/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_02/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_02/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_02/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_05/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_05/T.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_05/T1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_05/T1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_05/T2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_05/T2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_05/Test_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_05/Test_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/StringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/ExTre2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/ExTre2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/ImThre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/ImThre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/ImThre1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/ImThre1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/ImThre2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/ImThre2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/Test_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00代码复习/niu/java/_08/Test_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09常用类/niu/java/字符串的学习/StringTest$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09常用类/niu/java/字符串的学习/StringTest$StringTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09常用类/niu/java/字符串的学习/StringTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,33 +31,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-78">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_02.java">
+        <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/比较器/CampareableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="139" column="26" lean-forward="true" selection-start-line="139" selection-start-column="26" selection-end-line="139" selection-end-column="26" />
+            <state relative-caret-position="1269">
+              <caret line="108" column="25" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_08/ThreadLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -78,6 +56,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>value[]</find>
+      <find>Month</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,20 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice.java" />
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/ThreadPractice02.java" />
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程练习/Test.java" />
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程的同步_02/LockTest02.java" />
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/CommunicationTest.java" />
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/Test01.java" />
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程通信_03/Test02.java" />
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程新增_04/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/08多线程/src/niu/java/多线程学习/线程新增_04/ThreadPool.java" />
-        <option value="$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/Test.java" />
-        <option value="$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/StringTest.java" />
-        <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_02/t.java" />
-        <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_01/Test01.java" />
-        <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_03/Test01.java" />
         <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_04_1/Test_01.java" />
         <option value="$PROJECT_DIR$/00代码复习/src/basic/testprotected/p1/Son.java" />
         <option value="$PROJECT_DIR$/00代码复习/src/basic/testprotected/p1/Father1.java" />
@@ -138,12 +108,32 @@
         <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_07/Test_01.java" />
         <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_01.java" />
         <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_08/ThreadLock.java" />
+        <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_04.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/StringTest.java" />
+        <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_03.java" />
         <option value="$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_02.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/TestStr.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/AlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/StringTest_1.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/日期时间/DateTest_1.java" />
+        <option value="$PROJECT_DIR$/kkk/src/niu/java/Test/Test.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/日期时间/DateTest.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/比较器/Campareable.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/比较器/Goods.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/其他类的使用/OtherCalss.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/其他类的使用/OtherClass.java" />
+        <option value="$PROJECT_DIR$/09常用类/src/niu/java/比较器/CampareableTest.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="675" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="699" />
     <option name="height" value="744" />
@@ -158,44 +148,36 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Java_Learing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="00代码复习" type="462c0819:PsiDirectoryNode" />
+              <item name="09常用类" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Learing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="00代码复习" type="462c0819:PsiDirectoryNode" />
+              <item name="09常用类" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Learing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="00代码复习" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Learing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="00代码复习" type="462c0819:PsiDirectoryNode" />
+              <item name="09常用类" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="_08" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Learing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="00代码复习" type="462c0819:PsiDirectoryNode" />
+              <item name="09常用类" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="_08" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadLock.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="比较器" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,18 +187,18 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599204260227" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599495137580" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kkk" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.18819503" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -248,70 +230,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test_02">
-    <configuration name="Test_01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niu.java._08.Test_01" />
-      <module name="00代码复习" />
+  <component name="RunManager" selected="JUnit.OtherClass.TestM2">
+    <configuration name="CampareableTest.TestM2 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09常用类" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java._08.*" />
+          <option name="PATTERN" value="niu.java.比较器.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="niu.java.比较器" />
+      <option name="MAIN_CLASS_NAME" value="niu.java.比较器.CampareableTest" />
+      <option name="METHOD_NAME" value="TestM2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niu.java._07.Test_01" />
-      <module name="00代码复习" />
+    <configuration name="CampareableTest.TestM2 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09常用类" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java._07.*" />
+          <option name="PATTERN" value="niu.java.比较器.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="niu.java.比较器" />
+      <option name="MAIN_CLASS_NAME" value="niu.java.比较器.CampareableTest" />
+      <option name="METHOD_NAME" value="TestM2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niu.java._08.Test_02" />
-      <module name="00代码复习" />
+    <configuration name="CampareableTest.TestM2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09常用类" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java._08.*" />
+          <option name="PATTERN" value="niu.java.比较器.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="niu.java.比较器" />
+      <option name="MAIN_CLASS_NAME" value="niu.java.比较器.CampareableTest" />
+      <option name="METHOD_NAME" value="TestM2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niu.java._08.ThreadLock" />
-      <module name="00代码复习" />
+    <configuration name="OtherClass.TestM1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09常用类" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java._08.*" />
+          <option name="PATTERN" value="niu.java.其他类的使用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="niu.java.其他类的使用" />
+      <option name="MAIN_CLASS_NAME" value="niu.java.其他类的使用.OtherClass" />
+      <option name="METHOD_NAME" value="TestM1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_02.testEx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="00代码复习" />
+    <configuration name="OtherClass.TestM2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09常用类" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niu.java._08.*" />
+          <option name="PATTERN" value="niu.java.其他类的使用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="niu.java._08" />
-      <option name="MAIN_CLASS_NAME" value="niu.java._08.Test_02" />
-      <option name="METHOD_NAME" value="testEx" />
+      <option name="PACKAGE_NAME" value="niu.java.其他类的使用" />
+      <option name="MAIN_CLASS_NAME" value="niu.java.其他类的使用.OtherClass" />
+      <option name="METHOD_NAME" value="TestM2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -319,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test_02" />
-        <item itemvalue="Application.ThreadLock" />
-        <item itemvalue="JUnit.Test_02.testEx" />
-        <item itemvalue="Application.Test_01 (1)" />
-        <item itemvalue="Application.Test_01" />
+        <item itemvalue="JUnit.OtherClass.TestM2" />
+        <item itemvalue="JUnit.OtherClass.TestM1" />
+        <item itemvalue="JUnit.CampareableTest.TestM2" />
+        <item itemvalue="JUnit.CampareableTest.TestM2 (3)" />
+        <item itemvalue="JUnit.CampareableTest.TestM2 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +346,10 @@
       <workItem from="1599005250802" duration="23896000" />
       <workItem from="1599092322480" duration="4402000" />
       <workItem from="1599096818302" duration="25111000" />
-      <workItem from="1599178553556" duration="15767000" />
+      <workItem from="1599178553556" duration="17885000" />
+      <workItem from="1599299547614" duration="5283000" />
+      <workItem from="1599359624610" duration="26519000" />
+      <workItem from="1599439433217" duration="32167000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;&quot;">
       <created>1596024333669</created>
@@ -379,45 +376,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_03_test - 2020.09.03 at 16h 01m 23s.xml">
-      <configuration name="Test_03.test" configurationId="JUnit" />
+    <history-entry file="CampareableTest_TestM2_(1) - 2020.09.07 at 23h 17m 59s.xml">
+      <configuration name="CampareableTest.TestM2 (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_03_test - 2020.09.03 at 16h 02m 59s.xml">
-      <configuration name="Test_03.test" configurationId="JUnit" />
+    <history-entry file="CampareableTest_TestM2 - 2020.09.07 at 23h 18m 19s.xml">
+      <configuration name="CampareableTest.TestM2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_03_test - 2020.09.03 at 16h 04m 15s.xml">
-      <configuration name="Test_03.test" configurationId="JUnit" />
+    <history-entry file="CampareableTest_TestM2 - 2020.09.07 at 23h 19m 13s.xml">
+      <configuration name="CampareableTest.TestM2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_03_test1 - 2020.09.03 at 16h 09m 39s.xml">
-      <configuration name="Test_03.test1" configurationId="JUnit" />
+    <history-entry file="CampareableTest_TestM2_(2) - 2020.09.07 at 23h 20m 12s.xml">
+      <configuration name="CampareableTest.TestM2 (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_02_testEx - 2020.09.04 at 09h 47m 31s.xml">
-      <configuration name="Test_02.testEx" configurationId="JUnit" />
+    <history-entry file="CampareableTest_TestM2_(3) - 2020.09.07 at 23h 20m 29s.xml">
+      <configuration name="CampareableTest.TestM2 (3)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_02_testEx - 2020.09.04 at 09h 48m 01s.xml">
-      <configuration name="Test_02.testEx" configurationId="JUnit" />
+    <history-entry file="CampareableTest_TestM2 - 2020.09.07 at 23h 29m 31s.xml">
+      <configuration name="CampareableTest.TestM2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_02_testEx - 2020.09.04 at 09h 50m 01s.xml">
-      <configuration name="Test_02.testEx" configurationId="JUnit" />
+    <history-entry file="OtherClass_TestM1 - 2020.09.07 at 23h 41m 46s.xml">
+      <configuration name="OtherClass.TestM1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_02_testEx - 2020.09.04 at 09h 50m 35s.xml">
-      <configuration name="Test_02.testEx" configurationId="JUnit" />
+    <history-entry file="OtherClass_TestM2 - 2020.09.07 at 23h 47m 06s.xml">
+      <configuration name="OtherClass.TestM2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_02_testEx - 2020.09.04 at 09h 50m 55s.xml">
-      <configuration name="Test_02.testEx" configurationId="JUnit" />
+    <history-entry file="OtherClass_TestM2 - 2020.09.07 at 23h 49m 36s.xml">
+      <configuration name="OtherClass.TestM2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_02_testEx - 2020.09.04 at 09h 52m 05s.xml">
-      <configuration name="Test_02.testEx" configurationId="JUnit" />
+    <history-entry file="OtherClass_TestM2 - 2020.09.07 at 23h 50m 53s.xml">
+      <configuration name="OtherClass.TestM2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171271000" />
+    <option name="totallyTimeSpent" value="237358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21969697" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23106061" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -426,7 +423,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32185885" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33907056" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38209984" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -440,10 +437,10 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32954547" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="6" weight="0.32954547" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -504,6 +501,10 @@
       </configuration>
     </watches-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
@@ -514,124 +515,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_01/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/reflect/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/sql/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="1905" column="23" selection-start-line="1905" selection-start-column="23" selection-end-line="1905" selection-end-column="23" />
-          <folding>
-            <element signature="e#88329#88330#0" expanded="true" />
-            <element signature="e#88386#88387#0" expanded="true" />
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/testprotected/p11/Test.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/testprotected/p2/MyObject2.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/testprotected/p22/Test2.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/testprotected/p1/Father1.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/testprotected/p1/Son1.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/testprotected/p11/Son11.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/testprotected/p1/Test.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/p1.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/test/p11.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/test/p1/Myobj2.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/test/p1/Myobj.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/test/p11/Test1.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/basic/test/p11/Test.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_04_1/Test_01.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_04/Test_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="53" lean-forward="true" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_04/Test_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_05/Testss.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_03Test.java" />
-    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="854" column="56" lean-forward="true" selection-start-line="854" selection-start-column="56" selection-end-line="854" selection-end-column="56" />
-          <folding>
-            <element signature="e#32532#32533#0" expanded="true" />
-            <element signature="e#32566#32567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/test/niu/java/_06/Test_02Test.java" />
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_06/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_06/LeafTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -811,13 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_08/ThreadLock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
@@ -832,10 +708,272 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="139" column="26" lean-forward="true" selection-start-line="139" selection-start-column="26" selection-end-line="139" selection-end-column="26" />
+        <state relative-caret-position="-320">
+          <caret line="128" column="63" selection-start-line="128" selection-start-column="63" selection-end-line="128" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_08/Test_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/CharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-772">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00代码复习/src/niu/java/_05/Test_04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/AlgorithmTest.java" />
+    <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/TestStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/StringTest.java" />
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="499" column="20" lean-forward="true" selection-start-line="499" selection-start-column="20" selection-end-line="499" selection-end-column="20" />
+          <folding>
+            <element signature="e#1874#1875#0" expanded="true" />
+            <element signature="e#1909#1910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="269" column="17" selection-start-line="269" selection-start-column="17" selection-end-line="269" selection-end-column="17" />
+          <folding>
+            <element signature="e#5572#5573#0" expanded="true" />
+            <element signature="e#5600#5601#0" expanded="true" />
+            <element signature="e#5656#5657#0" expanded="true" />
+            <element signature="e#5691#5692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1268">
+          <caret line="1001" column="35" lean-forward="true" selection-start-line="1001" selection-start-column="35" selection-end-line="1001" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/time/temporal/TemporalAdjuster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/time/temporal/Temporal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="191" column="63" lean-forward="true" selection-start-line="191" selection-start-column="25" selection-end-line="191" selection-end-column="63" />
+          <folding>
+            <element signature="e#7577#7578#0" expanded="true" />
+            <element signature="e#7625#7626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="135" column="24" selection-start-line="135" selection-start-column="24" selection-end-line="135" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kkk/src/niu/java/Test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/sql/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1826" column="34" lean-forward="true" selection-start-line="1826" selection-start-column="34" selection-end-line="1826" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/日期时间/DateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2182">
+          <caret line="141" column="23" lean-forward="true" selection-start-line="141" selection-start-column="23" selection-end-line="141" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/日期时间/DateTest_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/字符串的学习/StringTest_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/ComparableTimSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="243" column="24" selection-start-line="243" selection-start-column="24" selection-end-line="243" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="4570" column="32" lean-forward="true" selection-start-line="4570" selection-start-column="32" selection-end-line="4570" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/比较器/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/其他类的使用/OtherClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="43" column="61" lean-forward="true" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Edit Code/DevelopmentEnvironment/JAVA/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="1168" column="27" selection-start-line="1168" selection-start-column="27" selection-end-line="1168" selection-end-column="27" />
+          <folding>
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="e#5687#5688#0" expanded="true" />
+            <element signature="e#5750#5751#0" expanded="true" />
+            <element signature="e#13098#13099#0" expanded="true" />
+            <element signature="e#13150#13151#0" expanded="true" />
+            <element signature="e#18781#18782#0" expanded="true" />
+            <element signature="e#18834#18835#0" expanded="true" />
+            <element signature="e#20727#20728#0" expanded="true" />
+            <element signature="e#20771#20772#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09常用类/src/niu/java/比较器/CampareableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="108" column="25" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -894,7 +1032,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Prac01</last-edited>
+          <last-edited>kkk</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

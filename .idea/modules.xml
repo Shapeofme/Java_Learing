@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/00代码复习/00代码复习.iml" filepath="$PROJECT_DIR$/00代码复习/00代码复习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08多线程/08多线程.iml" filepath="$PROJECT_DIR$/08多线程/08多线程.iml" />
       <module fileurl="file://$PROJECT_DIR$/09常用类/09常用类.iml" filepath="$PROJECT_DIR$/09常用类/09常用类.iml" />
-      <module fileurl="file://$PROJECT_DIR$/08多线程/Prac01.iml" filepath="$PROJECT_DIR$/08多线程/Prac01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10枚举类和注解/10枚举类和注解.iml" filepath="$PROJECT_DIR$/10枚举类和注解/10枚举类和注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11集合/11集合.iml" filepath="$PROJECT_DIR$/11集合/11集合.iml" />
     </modules>
   </component>
 </project>
